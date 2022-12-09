@@ -1,0 +1,18 @@
+total 1100
+drwxrwxr-x 4 mascot mascot   4096 Dec  2 10:39 .
+drwxrwxr-x 5 mascot mascot   4096 Dec  2 10:24 ..
+-rw-rw-r-- 1 mascot mascot      8 Dec  2 10:04 abc.txt
+-rw-rw-r-- 1 mascot mascot      0 Dec  2 10:38 alarm
+-rwxrwxr-x 1 mascot mascot 370448 Dec  2 10:38 a.out
+-rw-r--r-- 1 mascot mascot      0 Dec  2 10:40 a.txt
+-rw-rw-r-- 1 mascot mascot 106195 Oct  9 02:41 bg.jpg
+drwxrwxr-x 8 mascot mascot   4096 Dec  2 10:04 .git
+-rw-rw-r-- 1 mascot mascot    557 Dec  2 10:40 history.txt
+-rwxrwxr-x 1 mascot mascot 507664 Dec  2 10:04 main
+-rw-rw-r-- 1 mascot mascot  56980 Dec  2 10:04 main.cpp
+-rw-rw-r-- 1 mascot mascot    292 Dec  2 10:38 .myrc
+-rw-rw-r-- 1 mascot mascot    196 Dec  2 10:04 myrc.txt
+-rw-rw-r-- 1 mascot mascot   3487 Dec  2 10:04 readme.md
+-rw-rw-r-- 1 mascot mascot      0 Dec  2 10:38 recording.txt
+-rw-rw-r-- 1 mascot mascot  42155 Dec  2 10:38 trie_logger.txt
+drwxrwxr-x 2 mascot mascot   4096 Dec  2 10:04 .vscode

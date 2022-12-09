@@ -1,0 +1,10 @@
+PATH=/home/mascot/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+HOME=/home/mascot
+USER=mascot
+HOSTNAME=mascot-ROG-Strix-G531GT-G531GT
+PS1=$
+HISTSIZE=2000
+alias bye='exit '
+alias e='ls'
+alias tata='exit'
+ext=cvlc /usr/bin/cvlc .jpg

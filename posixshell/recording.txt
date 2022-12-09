@@ -1,0 +1,32 @@
+ls
+abc.txt
+alarm
+a.out
+a.txt
+bg.jpg
+history.txt
+main
+main.cpp
+myrc.txt
+readme.md
+recording.txt
+trie_logger.txt
+ls -la
+total 1108
+drwxrwxr-x 4 mascot mascot   4096 Dec  2 10:51 .
+drwxrwxr-x 5 mascot mascot   4096 Dec  2 10:24 ..
+-rw-rw-r-- 1 mascot mascot      8 Dec  2 10:04 abc.txt
+-rw-rw-r-- 1 mascot mascot      0 Dec  2 10:50 alarm
+-rwxrwxr-x 1 mascot mascot 370448 Dec  2 10:38 a.out
+-rw-r--r-- 1 mascot mascot    942 Dec  2 10:40 a.txt
+-rw-rw-r-- 1 mascot mascot 106195 Oct  9 02:41 bg.jpg
+drwxrwxr-x 8 mascot mascot   4096 Dec  2 10:04 .git
+-rw-rw-r-- 1 mascot mascot   1095 Dec  2 10:51 history.txt
+-rwxrwxr-x 1 mascot mascot 507664 Dec  2 10:04 main
+-rw-rw-r-- 1 mascot mascot  56980 Dec  2 10:04 main.cpp
+-rw-rw-r-- 1 mascot mascot    305 Dec  2 10:50 .myrc
+-rw-rw-r-- 1 mascot mascot    196 Dec  2 10:04 myrc.txt
+-rw-rw-r-- 1 mascot mascot   3487 Dec  2 10:04 readme.md
+-rw-rw-r-- 1 mascot mascot    118 Dec  2 10:51 recording.txt
+-rw-rw-r-- 1 mascot mascot  42155 Dec  2 10:50 trie_logger.txt
+drwxrwxr-x 2 mascot mascot   4096 Dec  2 10:04 .vscode
